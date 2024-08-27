@@ -1,9 +1,13 @@
+Final Project of FA23 ECE 385 Digital Systems Laboratory
+Teammate: Aidan Johnston
+
 To run this project, hardware platform FinalProject_V1_3 and software FP_V1_3 on Vitis, build project and run on a FPGA board with HDMI output and USB keyboard input
 
 References:
 VGA_Controller, partial USB driver software from Lab 6.2 provided files
 
 HDMI/DVI Encoder IP Module from Real Digital
+
 
 ACADEMIC INTEGRITY
 -----
