@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="FP_V1_3" location="E:/fpga_workspace/FP_V1_3" platform="E:/fpga_workspace/FinalProject_V1_3/export/FinalProject_V1_3/FinalProject_V1_3.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="FP_V1_3_system" sysConfig="FinalProject_V1_3" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="f91fc05aa95f50ee8d1655aa17a785bd">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1122887037">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1922114999" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
