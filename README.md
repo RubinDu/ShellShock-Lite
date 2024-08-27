@@ -1,5 +1,4 @@
-Final Project of FA23 ECE 385 Digital Systems Laboratory
-Teammate: Aidan Johnston
+Final Project of FA23 ECE 385 Digital Systems Laboratory, Teammate: Aidan Johnston
 
 To run this project, hardware platform FinalProject_V1_3 and software FP_V1_3 on Vitis, build project and run on a FPGA board with HDMI output and USB keyboard input
 
